@@ -1,4 +1,4 @@
-import { promises } from 'fs'
+uimport { promises } from 'fs'
 import { join } from 'path'
 import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'MALDIN BOT ♥',
 body: "أول بوت مالكته أحسن فتاة 💖",
-document.getElementById("imgClickAndChange").src = "../IMG-20240219-WA0000.jpg",
+thumbnailUrl: 'casper.jpeg',
 sourceUrl: 'https://instagram.com/',
 mediaType: 1,
 renderLargerThumbnail: true
