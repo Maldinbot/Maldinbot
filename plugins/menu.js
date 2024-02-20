@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'MALDIN BOT ♥',
 body: "أول بوت مالكته أحسن فتاة 💖",
-thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
+thumbnailUrl: 'casper.jpg',
 sourceUrl: 'https://instagram.com/',
 mediaType: 1,
 renderLargerThumbnail: true
